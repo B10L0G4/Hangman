@@ -1,4 +1,4 @@
-## Nome do Projeto: [Insira o nome do seu projeto]
+## Nome do Projeto: HAngman - Forca
 
 #### Status: Em Reestruturação
 
